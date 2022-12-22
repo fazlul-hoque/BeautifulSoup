@@ -1,3 +1,3 @@
 # Technologies:
 
-Python | BeautifulSoup | requests | Pandas DataFrame | CSS Selectors
+Python | BeautifulSoup | requests | Pandas DataFrame | CSS Selectors |
